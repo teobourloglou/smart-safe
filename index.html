@@ -12,12 +12,16 @@
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 <body>
-    <body x-data="" class="bg-black">
+    <body x-data="">
         <div id="header"></div>
+        <div id="hero"></div>
+        <div id="footer"></div>
     </body>
     <script>
         const homeComponents = [
             { name: "header",       elementId: "header"     },
+            { name: "hero",       elementId: "hero"     },
+            { name: "footer",       elementId: "footer"     },
         ];
         fetchComponents(homeComponents);
     </script>
