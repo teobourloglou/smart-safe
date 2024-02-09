@@ -6,21 +6,28 @@
     
     <title>SmartSafe</title>
 
+    <link rel="stylesheet" href="./input.css">
     <link rel="stylesheet" href="./dist/output.css">
+    <link rel="preconnect" href="https://fonts.bunny.net">
+    <link href="https://fonts.bunny.net/css?family=ubuntu:300,400,500,700" rel="stylesheet" />
     
-    <script src="./app.js"></script>
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="./app.js"></script>
 </head>
 <body>
-    <body x-data="">
+    <body x-data="" class="font-ubuntu">
         <div id="header"></div>
         <div id="hero"></div>
+        <div id="incentive"></div>
+        <div id="products"></div>
         <div id="footer"></div>
     </body>
     <script>
         const homeComponents = [
             { name: "header",       elementId: "header"     },
-            { name: "hero",       elementId: "hero"     },
+            { name: "hero",         elementId: "hero"       },
+            { name: "incentive",    elementId: "incentive"  },
+            { name: "products",     elementId: "products"   },
             { name: "footer",       elementId: "footer"     },
         ];
         fetchComponents(homeComponents);
