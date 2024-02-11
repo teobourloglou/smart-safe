@@ -11,19 +11,21 @@
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=ubuntu:300,400,500,700" rel="stylesheet" />
     
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <script src="./app.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
-<body>
-    <body x-data="" class="font-ubuntu">
-        <div id="header-product"></div>
+<body x-data="fetchProduct()" x-init="loadData" class="font-ubuntu">
+    <div id="product-hero" class="bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-neutral-300 to-white">
+        <div id="header-product"></div>    
         <div id="top"></div>
-        <div id="footer"></div>
-    </body>
+    </div>
+    <div id="features"></div>
+    <div id="footer"></div>
     <script>
         const homeComponents = [
             { name: "header-product",   elementId: "header-product" },
             { name: "top",              elementId: "top"            },
+            { name: "features",         elementId: "features"       },
             { name: "footer",           elementId: "footer"         },
         ];
         fetchComponents(homeComponents);

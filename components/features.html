@@ -1,0 +1,24 @@
+<div class="bg-primary">
+    <div class="max-w-2xl px-4 py-16 mx-auto sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
+        <div id="features-container" class="overflow-hidden bg-gray-200 divide-y divide-gray-200 rounded-lg shadow sm:grid sm:grid-cols-2 sm:gap-px sm:divide-y-0">
+            <template x-for="feature in product.features">
+                <div class="relative p-6 bg-white group focus-within:ring-2 focus-within:ring-inset focus-within:ring-indigo-500">
+                  <div class="flex flex-col items-start gap-4">
+                    <span class="p-3 bg-red-100 rounded-lg text-primary ring-4 ring-white">
+                        <span x-html="feature.svg"></span>
+                      </span>
+                    <h3 class="text-base font-medium leading-6 text-gray-900">
+                      <a href="#" class="focus:outline-none">
+                        <!-- Extend touch target to entire panel -->
+                        <span class="absolute inset-0" aria-hidden="true"></span>
+                        <span x-text="feature.text"></span>
+                      </a>
+                    </h3>
+                  </div>
+                </div>
+            </template>
+            
+        </div>
+    </div>
+  </div>
+  
