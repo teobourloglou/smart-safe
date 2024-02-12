@@ -15,22 +15,21 @@
     <script src="./app.js"></script>
 </head>
 <body>
-    <body x-data="" class="font-ubuntu">
-        <div id="header-home"></div>
+    <body x-data="fetchProducts()" x-init="loadData" class="font-ubuntu">
+        <div id="header-short"></div>
         <div id="hero"></div>
         <div id="incentive"></div>
         <div id="products"></div>
         <div id="footer"></div>
     </body>
     <script>
-        const homeComponents = [
-            { name: "header-home",  elementId: "header-home"},
-            { name: "hero",         elementId: "hero"       },
-            { name: "incentive",    elementId: "incentive"  },
-            { name: "products",     elementId: "products"   },
-            { name: "footer",       elementId: "footer"     },
-        ];
-        fetchComponents(homeComponents);
+        fetchComponents([
+            { name: "header-short", elementId: "header-short"   },
+            { name: "hero",         elementId: "hero"           },
+            { name: "incentive",    elementId: "incentive"      },
+            { name: "products",     elementId: "products"       },
+            { name: "footer",       elementId: "footer"         },
+        ]);
     </script>
 </body>
 </html>

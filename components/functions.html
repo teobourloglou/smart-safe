@@ -1,0 +1,57 @@
+<div name="functions" class="bg-gray-50">
+    <div class="max-w-2xl px-4 py-24 mx-auto sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8">
+        
+      <section aria-labelledby="details-heading">
+        <div class="flex flex-col items-center text-center">
+          <h2 id="details-heading" class="text-3xl font-bold tracking-tight text-black sm:text-4xl">Λειτουργίες</h2>
+          <p class="max-w-3xl mt-3 text-lg text-neutral-600">Εκτενής ανάλυση των δυνατοτήτων κάθε εργαλείου, προσφέροντας κατανόηση και επισήμανση των λειτουργιών που εξυπηρετούν τις ανάγκες των επαγγελματιών.</p>
+        </div>
+  
+        <div class="grid grid-cols-1 mt-16 gap-y-16 lg:grid-cols-2 lg:gap-x-8">
+          <div>
+            <h3 class="text-3xl font-bold text-black">Τι λύνει αυτό το εργαλείο;</h3>
+            <p x-text="product.functionsText" class="mt-8 text-lg text-neutral-600"></p>
+          </div>
+          <template x-if="product.secondImage">
+              <div>
+                <div class="w-full overflow-hidden rounded-lg aspect-h-2 aspect-w-3">
+                  <img :src="product.secondImage" :alt="product.shortDescription" class="object-cover object-center w-full h-full">
+                </div>
+              </div>
+          </template>
+        </div>
+      </section>
+
+      <div class="">
+        <div class="mt-8 -mx-4 sm:-mx-0">
+          <table class="min-w-full overflow-hidden divide-y rounded-lg divide-neutral-300">
+            <thead class="text-white bg-primary">
+              <tr>
+                <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-sm font-semibold">Λειτουργία</th>
+                <th scope="col" class="hidden px-3 py-3.5 text-left text-sm font-semibold lg:table-cell">Περιγραφή</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-red-100 bg-red-50">
+                
+                <template x-for="feature in product.functionItems">      
+                    <tr>
+                      <td class="w-full py-4 pl-4 pr-3 text-sm font-medium text-neutral-900 max-w-0 sm:w-auto sm:max-w-none">
+                        <span x-text="feature.title"></span>
+                        <dl class="font-normal lg:hidden">
+                          <dt x-text="feature.title" class="sr-only"></dt>
+                          <dd x-text="feature.description" class="mt-1 truncate text-neutral-700"></dd>
+                        </dl>
+                      </td>
+                      <td x-text="feature.description" class="hidden px-3 py-4 text-sm text-neutral-500 lg:table-cell"></td>
+                    </tr>
+                </template>
+                    
+            </tbody>
+          </table>
+        </div>
+      </div>
+      
+      
+    </div>
+  </div>
+  
