@@ -38,8 +38,9 @@ const getProductFromURL = () => {
  */
 const fetchProduct = () => {
   return {
-      loading: true,
+      productFound: null,
       urlSlug: null,
+      products: {},
       product: {},
       loadData() {
           fetch('products.json') // Sample API endpoint
@@ -51,9 +52,14 @@ const fetchProduct = () => {
               })
               .then(json => {
                   this.urlSlug = getProductFromURL();
+                  this.products = json;
                   this.product = json.find(product => product.slug === this.urlSlug);
-
-                  this.loading = false;
+                  if (this.product) {
+                    this.productFound = true;
+                  } else {
+                    this.productFound = false;
+                  }
+                  console.log(this.productFound)
               })
               .catch(error => {
                   console.error('There has been a problem with your fetch operation:', error);
@@ -70,7 +76,6 @@ const fetchProduct = () => {
  */
 const fetchProducts = () => {
   return {
-      loading: true,
       urlSlug: null,
       products: {},
       loadData() {

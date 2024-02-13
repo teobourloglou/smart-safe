@@ -6,6 +6,8 @@
         "longDescription": "Το iSmartTool 601MAX ειναι ενα <strong>εργαλείο TMPS</strong> που διαθέτει πολλές λειτουργίες οπως <strong>διαγνωστικο εξαιρετικής κάλυψης (Ευρωπη και Ασία)</strong> και <strong>αναλυτής μπαταρίας</strong>. Ως TPMS, καλύπτει το 98% των οχημάτων που εξοπλίζονται με σύστημα πίεσης ελαστικών. Μπορεί να διαβάσει δεδομένα σχετικά με την πίεση και θερμοκρασία ελαστικών.<br><br>Διαθέτει και διαγνωστικό για έλεγχο της μπαταρίας του οχήματος. Το SmartSafe έχει αναπτυχθεί ειδικά για τα συνεργεία και βουλκανιζατέρ για τη διάγνωση βλαβών σε αισθητήρα ελαστικών.",
         "image": "media/601-max.webp",
         "secondImage": "media/601-max-2.webp",
+        "link": "/product.html?product=601max",
+        "shopLink": "https://autospark.shop/601max-smart-safe-diagnwstiko-kai-ergaleio-programmatismou-tpms",
         "features": [
             {
                 "text": "Υποστήριξη testing πλήρους συστήματος και πλήρους λειτουργίες σε περισσότερες από 100 μάρκες αυτοκινήτων στην Ευρώπη, την Αμερική, την Ασία και την Κίνα",
@@ -61,6 +63,20 @@
             {
                 "title": "Report Printing",
                 "description" : "Support printing reports through the built-in thermal printer"
+            }
+        ],
+        "videos" : [
+            {
+                "name" : "iSmartTool601 Max Product Introduce",
+                "path" : "https://www.youtube.com/watch?v=y-AyQc-sGIw&ab_channel=OfficialSmartSafe"
+            },
+            {
+                "name" : "iSmartTool601Max for IMMO Function Explanation",
+                "path" : "https://www.youtube.com/watch?v=IlZAo_O0dtg&ab_channel=OfficialSmartSafe"
+            },
+            {
+                "name" : "iSmartTool601Max for Battery Reset Function Explanation",
+                "path" : "https://www.youtube.com/watch?v=EYyzoKyG4bA&ab_channel=OfficialSmartSafe"
             }
         ],
         "files" : [

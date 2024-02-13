@@ -8,14 +8,14 @@
     </div>
 
     <div class="relative mt-8">
-      <div class="relative w-full pb-6 -mb-6 overflow-x-auto">
+      <div class="relative w-full pb-6 -mb-6 overflow-hidden">
         <ul
           role="list"
-          class="inline-flex mx-4 space-x-8 sm:mx-6 lg:mx-0 lg:grid lg:grid-cols-3 lg:gap-x-8 lg:space-x-0 lg:gap-y-8"
+          class="inline-flex flex-wrap justify-center w-full gap-12 lg:grid lg:grid-cols-3 lg:gap-x-8 lg:space-x-0 lg:gap-y-8"
         >
           <template x-for="product in products">
             <li class="inline-flex flex-col w-64 text-center lg:w-auto">
-              <a href="#">
+              <a :href="product.link">
                 <div class="relative transition-all duration-300 group">
                   <div class="relative w-full overflow-hidden rounded-3xl aspect-square">
                     <img
