@@ -5,7 +5,3 @@
 html, body {
     scroll-behavior: smooth;
 }
-
-#features-container div:last-child {
-   grid-column: span 2;
-}

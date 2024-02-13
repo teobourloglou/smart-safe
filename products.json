@@ -93,16 +93,293 @@
     {
         "name": "CAT-501S",
         "slug": "cat-501s",
-        "shortDescription": "Ali ali 501 ali",
-        "longDescription": "Ali ali 501 ali",
-        "image": "cat-501s.webp",
+        "shortDescription": "Συσκευή αλλαγής λαδιών σασμάν αυτόματου κιβωτίου ATF",
+        "longDescription": "Το Automatic Transmission Flush Machine είναι ένα απαραίτητο εργαλείο για τη συντήρηση και τη διατήρηση της καλής λειτουργίας των αυτόματων κιβωτίων ταχυτήτων. Το μηχάνημα ξεπλένει αποτελεσματικά το παλιά λάδια του κιβωτίου ταχυτήτων, αφαιρώντας επιβλαβείς ρύπους και υπολείμματα που μπορούν να εμποδίσουν τη σωστή λειτουργία να μπλοκάρουν ή να φθείρουν εξαρτήματα και μηχανισμούς. Αντικαθιστώντας το παλιό υγρό με φρέσκο υγρό υψηλής ποιότητας, βελτιώνουμε τη λίπανση, μειώνουμε την τριβή και παρατείνουμε τη διάρκεια ζωής του κιβωτίου ταχυτήτων. Με την προηγμένη τεχνολογία του, το Auto Transmission Flush Machine εξασφαλίζει σχολαστικό και αποτελεσματικό ξέπλυμα, παρέχοντας βέλτιστα αποτελέσματα. Η συσκευή ειναι είναι μια πολύτιμη επένδυση για το συνεργείο ειδικά τώρα που τα αυτόματα κιβώτια έχουν τέτοια εξέλιξη και διείσδυση στην αγορά. ",
+        "image": "media/cat-501s.webp",
         "secondImage" : "",
+        "link" : "/product.html?product=cat-501s",
+        "shopLink" : "https://autospark.shop/cat-501s-smart-safe-syskeyh-allaghs-ladiwn-sasman-aytomatou-kivwtiou-atf",
         "features": [
-            ""
+            {
+                "text" : "Automatic identification of transmission inlet and outlet oil directions",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-id-badge-2' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M7 12h3v4h-3z' /><path d='M10 6h-6a1 1 0 0 0 -1 1v12a1 1 0 0 0 1 1h16a1 1 0 0 0 1 -1v-12a1 1 0 0 0 -1 -1h-6' /><path d='M10 3m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v3a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z' /><path d='M14 16h2' /><path d='M14 12h4' /></svg>"
+            },
+            {
+                "text" : "Equipped with a variety of specialized adapters suitable for vehicles from various countries",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-plug-connected' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M7 12l5 5l-1.5 1.5a3.536 3.536 0 1 1 -5 -5l1.5 -1.5z' /><path d='M17 12l-5 -5l1.5 -1.5a3.536 3.536 0 1 1 5 5l-1.5 1.5z' /><path d='M3 21l2.5 -2.5' /><path d='M18.5 5.5l2.5 -2.5' /><path d='M10 11l-2 2' /><path d='M13 14l-2 2' /></svg>"
+            },
+            {
+                "text" : "Supports the addition of cleaning agents for performing circulation cleaning of the automatic transmission",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-wash' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M3.486 8.965c.168 .02 .34 .033 .514 .035c.79 .009 1.539 -.178 2 -.5c.461 -.32 1.21 -.507 2 -.5c.79 -.007 1.539 .18 2 .5c.461 .322 1.21 .509 2 .5c.79 .009 1.539 -.178 2 -.5c.461 -.32 1.21 -.507 2 -.5c.79 -.007 1.539 .18 2 .5c.461 .322 1.21 .509 2 .5c.17 0 .339 -.014 .503 -.034' /><path d='M3 6l1.721 10.329a2 2 0 0 0 1.973 1.671h10.612a2 2 0 0 0 1.973 -1.671l1.721 -10.329' /></svg>"
+            },
+            {
+                "text" : "Intelligent electronic control ensures automatic equal-volume replacement of new and used oil",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-droplet-search' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M18.064 10.877l-4.89 -7.26c-.42 -.625 -1.287 -.803 -1.936 -.397a1.376 1.376 0 0 0 -.41 .397l-4.893 7.26c-1.695 2.838 -1.035 6.441 1.567 8.546a7.13 7.13 0 0 0 4.168 1.572' /><path d='M18 18m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0' /><path d='M20.2 20.2l1.8 1.8' /></svg>"
+            },
+            {
+                "text" : "Provides an extensive vehicle model database, eliminating the need for manual oil quantity setting",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-database' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M12 6m-8 0a8 3 0 1 0 16 0a8 3 0 1 0 -16 0' /><path d='M4 6v6a8 3 0 0 0 16 0v-6' /><path d='M4 12v6a8 3 0 0 0 16 0v-6' /></svg>"
+            },
+            {
+                "text" : "Features oil temperature display and oil filter replacement reminder function",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-temperature' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M10 13.5a4 4 0 1 0 4 0v-8.5a2 2 0 0 0 -4 0v8.5' /><path d='M10 9l4 0' /></svg>"
+            }
         ],
-        "functionText" : "Το ST06 δεν είναι μόνο ένας ελεγκτής αισθητήρα πίεσης ελαστικών αλλά και ένα πολυλειτουργικό εργαλείο που ενσωματώνει τη δοκιμή μπαταρίας και τη διάγνωση αυτοκινήτου. Όσον αφορά τα διαγνωστικά αυτοκινήτων, παρέχει μια πιο ολοκληρωμένη λύση για συνεργεία.",
-        "functions" : [
-            
+        "functionsText" : "ATF501 Automatic Transmission Flush Machine is a state-of-the-art device designed to optimize the performance and longevity of your vehicle's automatic transmission. This advanced machine ensures a thorough and precise flush, leaving your transmission cleaner and more efficient. With the Automatic Transmission Flush Machine, you can experience smoother shifts, improved driving experience, and increased reliability. Invest in this innovative machine to give your vehicle's transmission the care it deserves. ",
+        "functionItems" : [
+            {
+                "title" : "Transmission Oil Level Adjustment",
+                "description" : "Customizes oil level adjustments, refilling or draining the set amount of transmission oil"
+            },
+            {
+                "title" : "Transmission Oil Replacement ",
+                "description" : " Automatically identifies transmission inlet and outlet ports, enabling equal-volume replacement of automatic transmission oil"
+            },
+            {
+                "title" : "Transmission Oil Circulation Cleaning ",
+                "description" : "Allows the addition of cleaning agents for circulating cleaning of the automatic transmission"
+            },
+            {
+                "title" : "New and Used Oil Drain ",
+                "description" : " Automatically drains automatic transmission oil from new and used oil barrels in the equipment"
+            },
+            {
+                "title" : "Custom Vehicle Data ",
+                "description" : "Supports the custom addition of maintenance data for commonly used automatic transmission models"
+            },
+            {
+                "title" : "Printing ",
+                "description" : "Supports printing of equipment execution results, with customizable repair shop information"
+            }
+        ],
+        "videos" : [
+            {
+                "name" : "CAT-501S Auto Transmission Cleaner and Fluid Exchanger Practical Test Simulation",
+                "path" : "https://www.youtube.com/watch?v=1_ZdmvcT5Io&feature=youtu.be&ab_channel=OfficialSmartSafe"
+            }
+        ],
+        "files" : [
+            {
+                "name" : "SmartSafe ATF501 Auto Transmission Cleaner and Fluid Exchanger Product Catalog",
+                "path" : "https://newsmartsafe.com/static/upload/file/20230920/1695203449250971.pdf"
+            },
+            {
+                "name" : "SmartSafe ATF501 Auto Transmission Cleaner and Fluid Exchanger User's Manual",
+                "path" : "https://newsmartsafe.com/static/upload/file/20230112/1673493819637754.pdf"
+            }
+        ]
+    },
+    {
+        "name": "ismartIMMO G3",
+        "slug": "ismartimmo-g3",
+        "shortDescription": "Επαγγελματικός προγραμματιστής & σαρωτής Auto Key Immobilizer",
+        "longDescription": "Το iSmartIMMO G3 χρησιμοποιείται για την ανάγνωση και εγγραφή δεδομένων από και προς το τσιπ κλειδιών αυτοκινήτου.<br>Αυτό συμπεριλαμβάνει της ανάγνωση και εγγραφή σε EEPROM αλλά και ανάγνωση και εγγραφή στην MCU αυτοκινήτου, κατάλληλο για κλειδιά υπέρύθρων από Mercedes-Benz, δημιουργεί ειδικά κλειδιά. Διαβάζει INS κωδικούς απο κινητήρα BMW και γράφει /διαβάζει chip BMW CAS4+/FEM, κ.λπ.",
+        "image": "media/immo-g3.webp",
+        "secondImage" : "media/immo-g3-2.webp",
+        "link" : "/product.html?product=ismartimmo-g3",
+        "shopLink" : "https://autospark.shop/ismartimmo-g3-smart-safe-epaggelmatikos-programmatisths-sarwths-auto-key-immobilizer",
+        "features": [
+            {
+                "text" : "Powerful function, integrated key matching/copy, car anti-theft chip read-write, car computer read-write and other functions",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-key' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M16.555 3.843l3.602 3.602a2.877 2.877 0 0 1 0 4.069l-2.643 2.643a2.877 2.877 0 0 1 -4.069 0l-.301 -.301l-6.558 6.558a2 2 0 0 1 -1.239 .578l-.175 .008h-1.172a1 1 0 0 1 -.993 -.883l-.007 -.117v-1.172a2 2 0 0 1 .467 -1.284l.119 -.13l.414 -.414h2v-2h2v-2l2.144 -2.144l-.301 -.301a2.877 2.877 0 0 1 0 -4.069l2.643 -2.643a2.877 2.877 0 0 1 4.069 0z' /><path d='M15 9h.01' /></svg>"
+            },
+            {
+                "text" : "It can be used with a variety of SmartSafe detection tools, no binding, flexible use and wide adaptation range",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-tool' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M7 10h3v-3l-3.5 -3.5a6 6 0 0 1 8 8l6 6a2 2 0 0 1 -3 3l-6 -6a6 6 0 0 1 -8 -8l3.5 3.5' /></svg>"
+            },
+            {
+                "text" : "It can be used with IMMO PCBOX to operate on the computer terminal",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-terminal-2' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M8 9l3 3l-3 3' /><path d='M13 15l3 0' /><path d='M3 4m0 2a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2z' /></svg>"
+            }
+        ],
+        "functionsText" : "The IMMO G3 Key Immobilizer Programmer provides a robust anti-theft solution by enabling the programming of vehicle key, engine, and gearbox, with its wide coverage of multiple parts reprogramming for various vehicles. This device is particularly suitable for professional repair shops and auto repair businesses as an excellent choice.",
+        "functionItems" : [
+            {
+                "title" : "Car Anti-theft ",
+                "description" : " Add Mercedes-Benz, BMW, Volkswagen Audi and other car series, Porsche anti-theft function and engine computer and gearbox cloning function of other car series"
+            },
+            {
+                "title" : "Key Matching",
+                "description" : "Add functions such as Mercedes-Benz infrared key, key imitation duplicator, key reading and writing, etc"
+            }
+        ],
+        "videos" : [
+            {
+                "name" : "",
+                "path" : ""
+            }
+        ],
+        "files" : [
+            {
+                "name" : "SmartSafe IMMO G3 Immobilizer Programmer Product Catalog",
+                "path" : "https://newsmartsafe.com/static/upload/file/20230920/1695203912253897.pdf"
+            },
+            {
+                "name" : "SmartSafe IMMO G3 Immobilizer Programmer User's Manual",
+                "path" : "https://newsmartsafe.com/static/upload/file/20230111/1673418255544108.pdf"
+            }
+        ]
+    },
+    {
+        "name": "D01",
+        "slug": "d01",
+        "shortDescription": "Συσκευή διάγνωσης",
+        "longDescription": "Διαγνωστική συσκευή που καλύπτει παρα πολύ καλά ευρωπαικά και ασιατικά οχήματα<br>Μπορει να κωδικοποιησει κλειδια σε συνδιασμο με εξωτερικη συσκευή και ειναι θυγατρικη της LAUNCH<br>ADAS<br>TPMS<br>Κωδικοποιησεις και ππρογραμματισμοι εγκεφάλων<br>Μέγεθος οθόνης 10,1'<br>2.0GHz Octa-core 4GB<br>Αποθηκευτικός χώρος:128GB<br>Λειτουργικό: Android 11<br>Wi-Fi: 2.4GHz/5GHz<br>Κάμερα: μπροστά 8MP/πίσω 13MP<br>Μπαταρία: 3.8V/9360mAH<br>Διαστάσεις: 318×40.5×246.5mm",
+        "image": "media/d01.webp",
+        "secondImage" : "",
+        "link" : "/product.html?product=d01",
+        "shopLink" : "https://autospark.shop/d01-smart-safe-syskeyh-diagnwshs",
+        "features": [
+            {
+                "text" : "Whole system detection, supporting detection functions such as code reading, code clearing, data stream reading, and action testing",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-code' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M7 8l-4 4l4 4' /><path d='M17 8l4 4l-4 4' /><path d='M14 4l-4 16' /></svg>"
+            },
+            {
+                "text" : "Provide the topological graph of the whole vehicle, clearly display the vehicle communication network and quickly locate the fault point",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-topology-full' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M20 18a2 2 0 1 0 -4 0a2 2 0 0 0 4 0z' /><path d='M8 18a2 2 0 1 0 -4 0a2 2 0 0 0 4 0z' /><path d='M8 6a2 2 0 1 0 -4 0a2 2 0 0 0 4 0z' /><path d='M20 6a2 2 0 1 0 -4 0a2 2 0 0 0 4 0z' /><path d='M6 8v8' /><path d='M18 16v-8' /><path d='M8 6h8' /><path d='M16 18h-8' /><path d='M7.5 7.5l9 9' /><path d='M7.5 16.5l9 -9' /></svg>"
+            },
+            {
+                "text" : "It can be used with SmartSafe's full series of ADAS calibration main racks, covering ADAS calibration of European, American, Asian and domestic passenger and commercial vehicles",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-car' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M7 17m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0' /><path d='M17 17m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0' /><path d='M5 17h-2v-6l2 -5h9l4 5h1a2 2 0 0 1 2 2v4h-2m-4 0h-6m-6 -6h15m-6 0v-5' /></svg>"
+            },
+            {
+                "text" : "Used with G3 module, it supports the anti-theft matching function of many European, American, Asian and domestic models, and more brands are being updated continuously",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-lock-star' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M11 21h-4a2 2 0 0 1 -2 -2v-6a2 2 0 0 1 2 -2h9' /><path d='M8 11v-4a4 4 0 1 1 8 0v4' /><path d='M17.8 20.817l-2.172 1.138a.392 .392 0 0 1 -.568 -.41l.415 -2.411l-1.757 -1.707a.389 .389 0 0 1 .217 -.665l2.428 -.352l1.086 -2.193a.392 .392 0 0 1 .702 0l1.086 2.193l2.428 .352a.39 .39 0 0 1 .217 .665l-1.757 1.707l.414 2.41a.39 .39 0 0 1 -.567 .411l-2.172 -1.138z' /></svg>"
+            },
+            {
+                "text" : "Support 34 common maintenance functions",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-function' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M4 4m0 2.667a2.667 2.667 0 0 1 2.667 -2.667h10.666a2.667 2.667 0 0 1 2.667 2.667v10.666a2.667 2.667 0 0 1 -2.667 2.667h-10.666a2.667 2.667 0 0 1 -2.667 -2.667z' /><path d='M9 15.5v.25c0 .69 .56 1.25 1.25 1.25c.71 0 1.304 -.538 1.374 -1.244l.752 -7.512a1.381 1.381 0 0 1 1.374 -1.244c.69 0 1.25 .56 1.25 1.25v.25' /><path d='M9 12h6' /></svg>"
+            }
+        ],
+        "functionsText" : "SmartSafe ST10 is a versatile vehicle diagnostic scanner, what problems can it solve for you? SmartSafe have complete solutions for you!",
+        "functionItems" : [
+            {
+                "title" : "ADAS Calibration",
+                "description" : "Supports ADAS system calibration of many models in Europe, America, Asia and China, compatible with ADAS PRO+, ADAS MOBILE, ADAS LITE, ADAS RADAR 3IN1 and other equipment"
+            },
+            {
+                "title" : "Car Anti-theft",
+                "description" : "Support the anti-theft matching function of many models in Europe, America, Asia, China, and support the anti-theft programmer function (optional IMMO G3)"
+            },
+            {
+                "title" : "Vehicle Detection",
+                "description" : "Support for code reading, code clearing, data stream reading, action testing, special functions and other full-system and full-function detections"
+            },
+            {
+                "title" : "Maintenance Function",
+                "description" : "Support 30 common maintenance functions, such as maintenance light reset, throttle matching, brake pad replacement, steering angle reset, anti-theft matching, ABS bleeding injector coding, DPF regeneration, sunroof initialization, Gearbox matching, etc"
+            },
+            {
+                "title" : "Test Report",
+                "description" : "Support the display of ADAS calibration, fault detection, data flow and other reports"
+            },
+            {
+                "title" : "Software Upgrade",
+                "description" : "Support online upgrades, including model software, firmware software, and APP software"
+            },
+            {
+                "title" : "Module expansion",
+                "description" : "Support tread detection, oscilloscope, multimeter, current clamp, insulation test, endoscope, and other functional expansions"
+            }
+        ],
+        "videos" : [
+            {
+                "name" : "iSmartLink D01 Auto Smart Diagnostic Tool Introduction",
+                "path" : "https://www.youtube.com/watch?v=53jQCup9LKs&feature=youtu.be&ab_channel=OfficialSmartSafe"
+            }
+        ],
+        "files" : [
+            {
+                "name" : "SmartSafe ST10 Intelligent Automotive Detection Tool Product Catalog",
+                "path" : "https://newsmartsafe.com/static/upload/file/20230920/1695203536297914.pdf"
+            },
+            {
+                "name" : "SmartSafe ST10 Intelligent Automotive Detection Tool User's Manual",
+                "path" : "https://newsmartsafe.com/static/upload/file/20230111/1673421691533802.pdf"
+            }
+        ]
+    },
+    {
+        "name": "CNC605A",
+        "slug": "cnc605a",
+        "shortDescription": "Συσκευή καθαρισμού και ελέγχου μπεκ GDI Supported, 220V",
+        "longDescription": "Εχει δυνατή γεννήτρια υπερηχων<br>Μικροεπεξεργαστη για την σταθερη και ευέλικτη προσομοίωση του ελεγχου<br>Μεγαλη οθόνη αφης με την δυνατοτητα επιλογης προγραμματων και παρακολουθηση πληροφοριων για τον χρηστη<br>Αυτοματο αδειασμα των δοχειων μετα την ληξη<br><br>Εκτελουνται με την σειρα τα παρακατω<br><br>* Καθαρισμός με υπερηχους<br>Ελεγχο δέσμης ψεκασμου<br>Τεστ διαρροης<br>Ογκομετρηση<br>Πίεση ελέγχου 0,1-10 bar<br>RPM 100-9900<br>Παλμος 0,5-25,0ms<br>Χωρητικοτητα 3L<br>Η συσκευή κατασκευάζεται απο την LAUNCH",
+        "image": "media/cnc-605a.webp",
+        "secondImage" : "",
+        "link" : "/product.html?product=cnc605a",
+        "shopLink" : "https://autospark.shop/cnc605a-smart-safe-cnc605a-syskeyh-katharismou-kai-elegxou-bek-gdi-supported%EF%BC%8C220v?",
+        "features": [
+            {
+                "text" : "Supports cleaning and testing of GDI, EFI, and SFI fuel injectors",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-drop-circle' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M10.07 15.34c1.115 .88 2.74 .88 3.855 0c1.115 -.88 1.398 -2.388 .671 -3.575l-2.596 -3.765l-2.602 3.765c-.726 1.187 -.443 2.694 .672 3.575z' /><path d='M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0' /></svg>"
+            },
+            {
+                "text" : "Utilizes ultrasonic intensive cleaning technology to thoroughly remove carbon deposits and filter screen residues from the fuel injectors",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-uv-index' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M3 12h1m16 0h1m-15.4 -6.4l.7 .7m12.1 -.7l-.7 .7m-9.7 5.7a4 4 0 1 1 8 0' /><path d='M12 4v-1' /><path d='M13 16l2 5h1l2 -5' /><path d='M6 16v3a2 2 0 1 0 4 0v-3' /></svg>"
+            },
+            {
+                "text" : "Utilizes microcomputer automatic control technology for automatic control of the cleaning and testing process, and real-time monitoring of the key performance of the fuel injectors",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-cpu' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M5 5m0 1a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v12a1 1 0 0 1 -1 1h-12a1 1 0 0 1 -1 -1z' /><path d='M9 9h6v6h-6z' /><path d='M3 10h2' /><path d='M3 14h2' /><path d='M10 3v2' /><path d='M14 3v2' /><path d='M21 10h-2' /><path d='M21 14h-2' /><path d='M14 21v-2' /><path d='M10 21v-2' /></svg>"
+            },
+            {
+                "text" : "Equipped with various non-dismantle cleaning connectors, capable of non-dismantle cleaning and maintenance for multiple vehicle models",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-plug-connected' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M7 12l5 5l-1.5 1.5a3.536 3.536 0 1 1 -5 -5l1.5 -1.5z' /><path d='M17 12l-5 -5l1.5 -1.5a3.536 3.536 0 1 1 5 5l-1.5 1.5z' /><path d='M3 21l2.5 -2.5' /><path d='M18.5 5.5l2.5 -2.5' /><path d='M10 11l-2 2' /><path d='M13 14l-2 2' /></svg>"
+            },
+            {
+                "text" : "Through simulating engine operating conditions, comprehensively tests various aspects of the fuel injector's performance",
+                "svg" : "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-engine' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'><path stroke='none' d='M0 0h24v24H0z' fill='none'/><path d='M3 10v6' /><path d='M12 5v3' /><path d='M10 5h4' /><path d='M5 13h-2' /><path d='M6 10h2l2 -2h3.382a1 1 0 0 1 .894 .553l1.448 2.894a1 1 0 0 0 .894 .553h1.382v-2h2a1 1 0 0 1 1 1v6a1 1 0 0 1 -1 1h-2v-2h-3v2a1 1 0 0 1 -1 1h-3.465a1 1 0 0 1 -.832 -.445l-1.703 -2.555h-2v-6z' /></svg>"
+            }
+        ],
+        "functionsText" : "Suitable for different occasions and functions, CNC605 Injector Cleaner and Tester is a classic device for SmartSafe cleaning and maintenance. ",
+        "functionItems" : [
+            {
+                "title" : "Working Mode Selection",
+                "description" : "Can select GDI or EFI working mode based on the injector type"
+            },
+            {
+                "title" : "Ultrasonic Cleaning",
+                "description" : "Capable of simultaneously ultrasonic cleaning multiple injectors, effectively removing carbon buildup"
+            },
+            {
+                "title" : "Uniformity/Spray Testing",
+                "description" : "Detects the uniformity of fuel injection quantity for each injector and allows comprehensive observation of the injector spray pattern using background lighting"
+            },
+            {
+                "title" : "Sealing Test",
+                "description" : "Tests the sealing and leakage of injectors under system pressure"
+            },
+            {
+                "title" : "Fuel Injection Quantity Detection",
+                "description" : "Measures the fuel injection quantity of injectors under a constant 15-second injection condition"
+            },
+            {
+                "title" : "Automatic Cleaning and Testing",
+                "description" : "Under specific working parameters, realistically simulates injector testing under various conditions"
+            },
+            {
+                "title" : "Reverse Flush",
+                "description" : "For the uniformity/spray testing item, performs a reverse flush using a reverse flush adapter to remove internal injector contaminants and residues attached to the filter screen"
+            },
+            {
+                "title" : "Non-Dismantle Cleaning",
+                "description" : "Equipped with various non-dismantle cleaning adapters, allowing non-dismantle cleaning and maintenance for multiple vehicle models"
+            }
+        ],
+        "videos" : [
+            {
+                "name" : "iSmartINC 605 Injector Cleaner & Tester Introduction",
+                "path" : "https://www.youtube.com/watch?v=mCQw2MbEwJM&ab_channel=OfficialSmartSafe"
+            }
+        ],
+        "files" : [
+            {
+                "name" : "SmartSafe CNC605 GDI Injector Cleaner & Tester Product Catalog",
+                "path" : "https://newsmartsafe.com/static/upload/file/20230920/1695203312954892.pdf"
+            },
+            {
+                "name" : "SmartSafe CNC605 GDI Injector Cleaner & Tester User's Manual",
+                "path" : "https://newsmartsafe.com/static/upload/file/20230112/1673505044936852.pdf"
+            }
         ]
     }
 ]

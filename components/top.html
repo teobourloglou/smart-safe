@@ -1,6 +1,6 @@
 <div class="bg-transparent">
     <div class="pt-0 pb-16 lg:pt-6 sm:pb-24">
-      <div class="max-w-2xl sm:max-w-4xl lg:min-h-[70vh] px-4 mx-auto mt-8 sm:px-6 lg:max-w-7xl lg:px-8">
+      <div class="max-w-2xl sm:max-w-4xl lg:min-h-[70vh] px-4 mx-auto 2xl:mt-8 sm:px-6 lg:max-w-7xl lg:px-8">
         <template x-if="!productFound">
 
           
@@ -24,16 +24,16 @@
         <template x-if="productFound">
           <div class="flex flex-col-reverse min-h-full lg:flex-row">
             <div class="flex flex-col h-full w-full lg:w-1/2 lg:min-h-[70vh] items-center lg:items-start">
-              <h1 x-text="product.name" class="mb-4 text-5xl font-extrabold text-center lg:mb-12 lg:text-left lg:text-8xl"></h1>
-              <h2 x-text="product.shortDescription" class="mb-5 text-xl font-medium text-center lg:text-left lg:text-3xl text-neutral-900"></h2>
-              <p x-html="product.longDescription" class="mb-6 text-base leading-8 text-center lg:text-left lg:mb-12 lg:text-lg text-neutral-900"></p>
+              <h1 x-text="product.name" class="mb-4 text-5xl font-extrabold text-center md:mb-6 2xl:mb-12 lg:text-left lg:text-8xl"></h1>
+              <h2 x-text="product.shortDescription" class="mb-4 text-xl font-medium text-center md:mb-6 lg:text-left lg:text-3xl text-neutral-900"></h2>
+              <p x-html="product.longDescription" class="text-base leading-8 text-center mb:4 md:mb-6 lg:text-left 2xl:mb-12 lg:text-lg text-neutral-900"></p>
               <a :href="product.shopLink" target="_blank" class="rounded-md inline-flex justify-start gap-2 items-center bg-primary hover:bg-secondary px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary">
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-5 icon icon-tabler icon-tabler-shopping-cart" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M6 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" /><path d="M17 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" /><path d="M17 17h-11v-14h-2" /><path d="M6 5l14 1l-1 7h-13" /></svg>
                 <span>Αγοράστε το</span>
               </a>
             </div>
             <div class="flex justify-center lg:justify-end w-full h-[40vh] lg:h-auto lg:w-1/2">
-              <img :src="product.image">
+              <img :src="product.image" class="object-contain">
             </div>
           </div>
           </template>
