@@ -59,7 +59,6 @@ const fetchProduct = () => {
                   } else {
                     this.productFound = false;
                   }
-                  console.log(this.productFound)
               })
               .catch(error => {
                   console.error('There has been a problem with your fetch operation:', error);
